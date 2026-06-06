@@ -1,0 +1,66 @@
+[
+  {
+    "rank": 1,
+    "name": "Directus",
+    "github": "directus/directus",
+    "main_language": "TypeScript",
+    "positioning": "Database-first admin app, headless CMS, APIs, auth, and permissions",
+    "postgresql_fit": "Strong"
+  },
+  {
+    "rank": 2,
+    "name": "Baserow",
+    "github": "baserow/baserow",
+    "main_language": "Python / TypeScript",
+    "positioning": "Open-source Airtable-like low-code data platform",
+    "postgresql_fit": "Strong"
+  },
+  {
+    "rank": 3,
+    "name": "ToolJet",
+    "github": "ToolJet/ToolJet",
+    "main_language": "JavaScript / TypeScript",
+    "positioning": "Open-source Retool-style internal tool builder",
+    "postgresql_fit": "Strong"
+  },
+  {
+    "rank": 4,
+    "name": "Hasura GraphQL Engine",
+    "github": "hasura/graphql-engine",
+    "main_language": "Haskell",
+    "positioning": "Auto-generates GraphQL APIs, permissions, and subscriptions from PostgreSQL",
+    "postgresql_fit": "Very strong"
+  },
+  {
+    "rank": 5,
+    "name": "Supabase",
+    "github": "supabase/supabase",
+    "main_language": "TypeScript",
+    "positioning": "Postgres application platform with Auth, Storage, Realtime, and Edge Functions",
+    "postgresql_fit": "Very strong"
+  },
+  {
+    "rank": 6,
+    "name": "Teable",
+    "github": "teableio/teable",
+    "main_language": "TypeScript",
+    "positioning": "No-code Postgres / Airtable alternative",
+    "postgresql_fit": "Strong"
+  },
+  {
+    "rank": 7,
+    "name": "Payload CMS",
+    "github": "payloadcms/payload",
+    "main_language": "TypeScript",
+    "positioning": "Headless CMS and full-stack admin framework",
+    "postgresql_fit": "Good"
+  },
+  {
+    "rank": 8,
+    "name": "Strapi",
+    "github": "strapi/strapi",
+    "main_language": "TypeScript",
+    "positioning": "Headless CMS and admin panel",
+    "postgresql_fit": "Moderate"
+  }
+]
