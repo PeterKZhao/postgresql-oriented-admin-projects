@@ -2,6 +2,11 @@
 
 This repository collects a short, practical comparison of open-source projects adjacent to `gin-vue-admin` and `RuoYi-Vue-Pro`: admin platforms, low-code/internal-tool builders, CMS systems, and automatic API platforms, grouped by whether they naturally lean toward PostgreSQL or MySQL.
 
+## Reusable Library Sections
+
+- [Knowledge library](knowledge/README.md): reusable project planning, Java modeling, RuoYi-Vue-Pro, and model-card notes.
+- [Skill library](skills/README.md): reusable Codex skill structures and model-card templates.
+
 ## Conclusion
 
 For `gin-vue-admin` itself, MySQL is still the lower-friction choice because its default configuration and ecosystem path are MySQL-first. `RuoYi-Vue-Pro` and many similar Java/Vue admin systems also sit naturally in the MySQL ecosystem. If the goal is to study projects where PostgreSQL is a natural center of gravity, the best references are Directus, Baserow, ToolJet, Hasura, Supabase, Teable, Payload CMS, and Strapi.
